@@ -1,5 +1,5 @@
 # Big-Trip
-this project includes:
+### This project includes:
 
 technical: HTML, CSS, JavaScript(ES6), OOP, REST API
 
