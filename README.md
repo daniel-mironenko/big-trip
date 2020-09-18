@@ -12,8 +12,6 @@ architecture: MVP
 
 libraries: moment.js, chart.js
 
-design: HTML Academy
-
 ## Usage
 1. Clone this repository.
 2. Install npm modules.
